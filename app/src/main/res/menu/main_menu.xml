@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group>
+            <item android:id="@+id/menu_cycle" android:title="循环"/>
+            <item android:id="@+id/menu_uncycle" android:title="不循环"/>
+        </group>
+
+    <group>
+        <item android:id="@+id/menu_depth" android:title="DEPTH"/>
+        <item android:id="@+id/menu_rotate" android:title="ROTATE"/>
+        <item android:id="@+id/menu_zoomout" android:title="ZoomOut"/>
+    </group>
+
+
+</menu>
