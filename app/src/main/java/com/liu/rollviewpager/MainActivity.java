@@ -55,11 +55,11 @@ public class MainActivity extends AppCompatActivity {
 
         // 构造网络图片
         uriList = new ArrayList<String>();
-        uriList.add("http://h.hiphotos.baidu.com/album/w%3D2048/sign=730e7fdf95eef01f4d141fc5d4c69825/94cad1c8a786c917b8bf9482c83d70cf3ac757c9.jpg");
-        uriList.add("http://g.hiphotos.baidu.com/album/w%3D2048/sign=00d4819db8014a90813e41bd9d4f3812/562c11dfa9ec8a137de469cff603918fa0ecc026.jpg");
-        uriList.add("http://c.hiphotos.baidu.com/album/w%3D2048/sign=a8631adb342ac65c67056173cfcab011/b8389b504fc2d56217d11656e61190ef77c66cb4.jpg");
-        uriList.add("http://e.hiphotos.baidu.com/album/w%3D2048/sign=ffac8994a71ea8d38a227304a332314e/1ad5ad6eddc451da4d9d32c4b7fd5266d01632b1.jpg");
-        uriList.add("http://a.hiphotos.baidu.com/album/w%3D2048/sign=afbe93839a504fc2a25fb705d1e5e611/d058ccbf6c81800a99489685b03533fa838b478f.jpg");
+        uriList.add("http://desk.fd.zol-img.com.cn/t_s960x600c5/g4/M01/0D/04/Cg-4WVP_npmIY6GRAKcKYPPMR3wAAQ8LgNIuTMApwp4015.jpg");
+        uriList.add("http://tupian.enterdesk.com/2016/hxj/08/16/1602/ChMkJ1exsKSIaKyoAA0KjNDwWssAAUdNgCW6Z0ADQqk521.jpg");
+        uriList.add("http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1609/27/c0/27587202_1474952311163_800x600.jpg");
+        uriList.add("http://bbs.crsky.com/1236983883/Mon_1208/25_187069_d7a7e318889e475.jpg");
+        uriList.add("http://bbs.crsky.com/1236983883/Mon_1208/25_187069_c732fd838ff4ce7.jpg");
 
         mRollViewPager = new RollViewPager(this, dots,
                 R.drawable.dot_focus, R.drawable.dot_normal,
